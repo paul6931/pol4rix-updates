@@ -2,7 +2,7 @@
   "version": "1.0.0-beta.24",
   "firmware": {
     "url": "https://github.com/paul6931/pol4rix-updates/releases/download/v1.0.0-beta.24/pol4rix-firmware.bin",
-    "sha256": "f6bc5754f4c8d8d0369b0f8cbe9742db5aa6bd589855e17c0951bc4489ccdc5a",
-    "size": 1695280
+    "sha256": "77808407ab01d324c7f50f601022773f24bc5b176cf426ea94b5a8b8190a86b4",
+    "size": 1658176
   }
 }
