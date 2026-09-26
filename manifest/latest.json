@@ -1,10 +1,10 @@
 {
-  "version": "1.0.0-beta.30",
+  "version": "1.0.0-beta.31",
   "minApiVersion": 1,
   "firmware": {
-    "url": "https://github.com/paul6931/pol4rix-updates/releases/download/v1.0.0-beta.30/pol4rix-firmware.bin",
-    "size": 2446064,
-    "sha256": "483da7c44d4f68d5dfe3bf044c7ebf3fd9fb1e893c5ee90aa4c99409802425f3"
+    "url": "https://github.com/paul6931/pol4rix-updates/releases/download/v1.0.0-beta.31/pol4rix-firmware.bin",
+    "size": 2446416,
+    "sha256": "fd3c0e6f31dd70e1692f296cfda73fa6d3d0a177c1af1348e5ed35d4eb1a8d53"
   },
-  "signature": "97f6c7985ada953573bc955b0d5fdb35412e8eb5898a9eee45ba1c3793d2a4c0199f62d5b7671014d8720fa77ace8093c3086134a5fe68e1cd7ce580abb47f6f"
+  "signature": "93c3bdf2e51f24d6476d79ab5a3422715db5d96a5644157c48016c38ee5bc04661f5046705fff052b60acc339856ee4645206d1b6f9691b5343e51e8a170fddc"
 }
